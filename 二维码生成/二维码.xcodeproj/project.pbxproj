@@ -14,6 +14,7 @@
 		24E7CEEC1B55123D001E0CD7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 24E7CEEB1B55123D001E0CD7 /* Images.xcassets */; };
 		24E7CEEF1B55123D001E0CD7 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 24E7CEED1B55123D001E0CD7 /* LaunchScreen.xib */; };
 		24E7CEFB1B55123D001E0CD7 /* ___Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 24E7CEFA1B55123D001E0CD7 /* ___Tests.m */; };
+		59FE07861B9037D900CC8094 /* QRCTools.m in Sources */ = {isa = PBXBuildFile; fileRef = 59FE07851B9037D900CC8094 /* QRCTools.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,8 @@
 		24E7CEF41B55123D001E0CD7 /* 二维码Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "二维码Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		24E7CEF91B55123D001E0CD7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		24E7CEFA1B55123D001E0CD7 /* ___Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "___Tests.m"; sourceTree = "<group>"; };
+		59FE07841B9037D900CC8094 /* QRCTools.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = QRCTools.h; sourceTree = "<group>"; };
+		59FE07851B9037D900CC8094 /* QRCTools.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = QRCTools.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +84,8 @@
 		24E7CEDD1B55123D001E0CD7 /* 二维码 */ = {
 			isa = PBXGroup;
 			children = (
+				59FE07841B9037D900CC8094 /* QRCTools.h */,
+				59FE07851B9037D900CC8094 /* QRCTools.m */,
 				24E7CEE21B55123D001E0CD7 /* AppDelegate.h */,
 				24E7CEE31B55123D001E0CD7 /* AppDelegate.m */,
 				24E7CEE51B55123D001E0CD7 /* ViewController.h */,
@@ -219,6 +224,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				59FE07861B9037D900CC8094 /* QRCTools.m in Sources */,
 				24E7CEE71B55123D001E0CD7 /* ViewController.m in Sources */,
 				24E7CEE41B55123D001E0CD7 /* AppDelegate.m in Sources */,
 				24E7CEE11B55123D001E0CD7 /* main.m in Sources */,
@@ -416,6 +422,7 @@
 				24E7CF001B55123D001E0CD7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		24E7CF011B55123D001E0CD7 /* Build configuration list for PBXNativeTarget "二维码Tests" */ = {
 			isa = XCConfigurationList;
@@ -424,6 +431,7 @@
 				24E7CF031B55123D001E0CD7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
