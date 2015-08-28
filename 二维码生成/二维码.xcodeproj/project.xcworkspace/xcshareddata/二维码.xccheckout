@@ -22,7 +22,7 @@
 		<key>4174856E3640F7C4D0F9ADFED06B2D411F1DA930</key>
 		<string>../../..</string>
 		<key>5CB1B08E5953290E459481B45F4657E07342DBB8</key>
-		<string>../../../../QRCoder-demo-</string>
+		<string>../../..-</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/aTyrant/QRCoder-demo.git</string>
