@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3CFFF142-A9C5-4AF6-9624-92FB6C366C99</string>
+	<key>IDESourceControlProjectName</key>
+	<string>二维码</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>4174856E3640F7C4D0F9ADFED06B2D411F1DA930</key>
+		<string>https://github.com/aTyrant/QRCoder-demo.git</string>
+		<key>5CB1B08E5953290E459481B45F4657E07342DBB8</key>
+		<string>https://github.com/aTyrant/QRCoder-demo-.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>二维码生成/二维码.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>4174856E3640F7C4D0F9ADFED06B2D411F1DA930</key>
+		<string>../../..</string>
+		<key>5CB1B08E5953290E459481B45F4657E07342DBB8</key>
+		<string>../../../../QRCoder-demo-</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/aTyrant/QRCoder-demo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>4174856E3640F7C4D0F9ADFED06B2D411F1DA930</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>4174856E3640F7C4D0F9ADFED06B2D411F1DA930</string>
+			<key>IDESourceControlWCCName</key>
+			<string>QRCoder-demo</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5CB1B08E5953290E459481B45F4657E07342DBB8</string>
+			<key>IDESourceControlWCCName</key>
+			<string>QRCoder-demo-</string>
+		</dict>
+	</array>
+</dict>
+</plist>
